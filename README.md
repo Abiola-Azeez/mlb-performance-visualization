@@ -1,19 +1,18 @@
 # MLB Team Performance Visualization
 
 ## Project Overview
-This project explores Major League Baseball team performance using data visualization techniques in Tableau.  
-The analysis focuses on comparing predicted team performance with actual results and identifying trends in team performance across seasons.
+This project analyzes Major League Baseball team performance using data visualization techniques in Tableau. The analysis compares predicted team performance with actual results and examines how team performance changed between seasons.
 
-The goal of the project is to demonstrate how visualization tools can be used to highlight performance differences and communicate insights effectively.
+The objective of this project is to demonstrate how visualization tools can be used to identify trends, highlight outliers, and communicate insights clearly.
 
 ---
 
 ## Objectives
 
-- Compare **predicted vs actual team performance**
-- Identify teams that **overperformed or underperformed**
-- Visualize **year-over-year performance trends**
-- Communicate analytical findings using clear visualizations
+- Compare predicted vs actual team performance
+- Identify teams that overperformed or underperformed expectations
+- Analyze year-over-year performance changes across MLB teams
+- Communicate insights using effective data visualizations
 
 ---
 
@@ -33,10 +32,10 @@ These variables allow comparison between expected and observed team performance.
 
 ## Tools Used
 
-- Tableau  
-- Data Visualization  
-- Comparative Analysis  
+- Tableau
+- Data Visualization
 - Calculated Fields
+- Comparative Analysis
 
 ---
 
@@ -46,23 +45,24 @@ These variables allow comparison between expected and observed team performance.
 
 ![Performance Difference](performance_difference_chart.png)
 
-This chart highlights teams whose actual performance significantly differed from predictions, allowing quick identification of overperforming and underperforming teams.
+This visualization highlights teams whose actual performance significantly differed from predictions.
 
 ---
 
-### Year-over-Year Performance Trends
+### Year-over-Year Performance Change
 
-![Performance Trends](year_over_year_performance.png)
+![Year Over Year](year_over_year_performance.png)
 
-This visualization examines changes in team performance across seasons to identify performance trends and variability.
+This chart shows how each team's winning percentage changed from 2023 to 2024, helping identify the most improved and most declined teams.
 
 ---
 
 ## Key Insights
 
-- Some teams significantly **outperformed expectations**, indicating strong season performance relative to predictions.
-- Other teams **underperformed predictions**, highlighting possible performance inconsistencies.
-- Visual comparison of predicted and actual results helps reveal patterns that may not be obvious from raw data alone.
+- Some teams significantly exceeded performance expectations.
+- Other teams underperformed relative to predictions.
+- Visual comparison of predicted vs actual performance helps identify teams whose outcomes diverged from expectations.
+- Year-over-year analysis highlights which teams improved or declined the most between seasons.
 
 ---
 
